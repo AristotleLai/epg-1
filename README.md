@@ -33,7 +33,8 @@
 ## 需求  
 - requests
 - django
-- BeautifulSoup  
+- BeautifulSoup
+- python-dateutil  
 ## 使用方法
 默认使用[sqlite3](https://www.sqlite.org/) 数据库  
 ### 下载源码  
